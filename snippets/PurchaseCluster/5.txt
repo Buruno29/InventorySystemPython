@@ -1,0 +1,36 @@
+
+Sapato Azul
+
+Preço: 70.0
+
+Sapato Azul
+
+Preço: 70.0
+
+('Total:  ', '136.0')
+('Desconto:  ', '4.0')
+=========
+
+('Total:  ', '0.0')
+('Desconto:  ', '0.0')
+=========
+
+Água com gás 
+
+Preço: 2.5
+
+Água com gás 
+
+Preço: 2.5
+
+('Total:  ', '5.0')
+('Desconto:  ', '0.0')
+=========
+
+Sapato Azul
+
+Preço: 70.0
+
+('Total:  ', '65.0')
+('Desconto:  ', '5.0')
+=========

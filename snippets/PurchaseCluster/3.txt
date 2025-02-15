@@ -1,0 +1,172 @@
+
+Shoe x
+
+Price: 80.0
+
+Shoe x
+
+Price: 80.0
+
+('Total:  ', '149.0')
+('Discount:  ', '11.0')
+=========
+
+Shoe x
+
+Price: 80.0
+
+('Total:  ', '76.0')
+('Discount:  ', '4.0')
+=========
+
+('Total:  ', '0.0')
+('Discount:  ', '0.0')
+=========
+
+Água com gás 
+
+Price: 55
+
+
+('Total:  ', '50.0')
+('Discount:  ', '5.0')
+=========
+
+Água com gás 
+
+Price: 55
+
+
+('Total:  ', '52.0')
+('Discount:  ', '3.0')
+=========
+
+Água com gás 
+
+Price: 55
+
+
+('Total:  ', '49.0')
+('Discount:  ', '6.0')
+=========
+
+Shoe x
+
+Preço: 80.0
+
+('Total:  ', '77.0')
+('Desconto:  ', '3.0')
+=========
+
+Água com gás 
+
+Price: 55
+
+
+('Total:  ', '55.0')
+('Discount:  ', '0.0')
+=========
+
+Sapato Azul
+
+Preço: 70.0
+
+Sapato Azul
+
+Preço: 70.0
+
+Picolé Tablito
+
+Preço: 7.0
+
+('Total:  ', '147.0')
+('Desconto:  ', '0.0')
+=========
+
+Água com gás 
+
+Price: 2.5
+
+('Total:  ', '-1.5')
+('Discount:  ', '4.0')
+=========
+
+Água com gás 
+
+Price: 2.5
+
+('Total:  ', '1.5')
+('Discount:  ', '1.0')
+=========
+
+Shoe x
+
+Price: 80.0
+
+('Total:  ', '80.0')
+('Discount:  ', '0.0')
+=========
+
+Água com gás 
+
+Price: 2.5
+
+('Total:  ', '-2.5')
+('Discount:  ', '5.0')
+=========
+
+Água com gás 
+
+Price: 
+
+('Total:  ', '0.0')
+('Discount:  ', '0.0')
+=========
+
+Água com gás 
+
+Price: 2.5
+
+('Total:  ', '-1.5')
+('Discount:  ', '4.0')
+=========
+
+Água com gás 
+
+Price: 2.5
+
+Água com gás 
+
+Price: 2.5
+
+Água com gás 
+
+Price: 2.5
+
+('Total:  ', '5.5')
+('Discount:  ', '2.0')
+=========
+
+Shoe x
+
+Price: 80.0
+
+Água com gás 
+
+Price: 2.5
+
+('Total:  ', '80.5')
+('Discount:  ', '2.0')
+=========
+
+Shoe x
+
+Price: 80.0
+
+Shoe x
+
+Price: 80.0
+
+('Total:  ', '146.0')
+('Discount:  ', '14.0')
+=========
